@@ -12,3 +12,4 @@ docker run -d \
   -v /home/ubuntu/downloads:/downloads \
   --restart unless-stopped \
   lscr.io/linuxserver/qbittorrent:latest
+ sudo apt update
